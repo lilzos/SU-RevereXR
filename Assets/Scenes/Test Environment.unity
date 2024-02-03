@@ -8191,7 +8191,7 @@ GameObject:
   - component: {fileID: 1055277907}
   - component: {fileID: 1055277906}
   m_Layer: 5
-  m_Name: Text (TMP)
+  m_Name: text
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -17848,9 +17848,9 @@ SceneRoots:
   - {fileID: 1249617921}
   - {fileID: 1634610254}
   - {fileID: 105053426}
+  - {fileID: 1232647106}
   - {fileID: 1586774121}
   - {fileID: 1199331724}
-  - {fileID: 1232647106}
   - {fileID: 524505692}
   - {fileID: 841272795}
   - {fileID: 1873488258}
