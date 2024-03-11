@@ -1333,7 +1333,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 880989824875910810, guid: b40b28ccec36d401abb0de966fdccf03, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 3089738152545743682, guid: b40b28ccec36d401abb0de966fdccf03, type: 3}
       propertyPath: m_Name
@@ -1341,7 +1341,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3394276172608624107, guid: b40b28ccec36d401abb0de966fdccf03, type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3399355486096390703, guid: b40b28ccec36d401abb0de966fdccf03, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
