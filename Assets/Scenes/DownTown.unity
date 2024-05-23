@@ -857,6 +857,22 @@ PrefabInstance:
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_IntArgument
       value: 5
       objectReference: {fileID: 0}
+    - target: {fileID: 5981070380045704071, guid: 5f7496dd1254b43a29bf60c475c7949d, type: 3}
+      propertyPath: m_Color.a
+      value: 0.19607843
+      objectReference: {fileID: 0}
+    - target: {fileID: 5981070380045704071, guid: 5f7496dd1254b43a29bf60c475c7949d, type: 3}
+      propertyPath: m_Color.b
+      value: 0.8392157
+      objectReference: {fileID: 0}
+    - target: {fileID: 5981070380045704071, guid: 5f7496dd1254b43a29bf60c475c7949d, type: 3}
+      propertyPath: m_Color.g
+      value: 0.8392157
+      objectReference: {fileID: 0}
+    - target: {fileID: 5981070380045704071, guid: 5f7496dd1254b43a29bf60c475c7949d, type: 3}
+      propertyPath: m_Color.r
+      value: 0.8392157
+      objectReference: {fileID: 0}
     - target: {fileID: 6269682046346227654, guid: 5f7496dd1254b43a29bf60c475c7949d, type: 3}
       propertyPath: m_text
       value: Welcome To Downtown Seattle!
@@ -869,6 +885,22 @@ PrefabInstance:
       propertyPath: m_text
       value: Gallery
       objectReference: {fileID: 0}
+    - target: {fileID: 6704430216927991290, guid: 5f7496dd1254b43a29bf60c475c7949d, type: 3}
+      propertyPath: m_Color.a
+      value: 0.19607843
+      objectReference: {fileID: 0}
+    - target: {fileID: 6704430216927991290, guid: 5f7496dd1254b43a29bf60c475c7949d, type: 3}
+      propertyPath: m_Color.b
+      value: 0.8392157
+      objectReference: {fileID: 0}
+    - target: {fileID: 6704430216927991290, guid: 5f7496dd1254b43a29bf60c475c7949d, type: 3}
+      propertyPath: m_Color.g
+      value: 0.8392157
+      objectReference: {fileID: 0}
+    - target: {fileID: 6704430216927991290, guid: 5f7496dd1254b43a29bf60c475c7949d, type: 3}
+      propertyPath: m_Color.r
+      value: 0.8392157
+      objectReference: {fileID: 0}
     - target: {fileID: 7779997562743622984, guid: 5f7496dd1254b43a29bf60c475c7949d, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
@@ -876,6 +908,22 @@ PrefabInstance:
     - target: {fileID: 7779997562743622984, guid: 5f7496dd1254b43a29bf60c475c7949d, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
       value: GoToScene
+      objectReference: {fileID: 0}
+    - target: {fileID: 8286437040195317843, guid: 5f7496dd1254b43a29bf60c475c7949d, type: 3}
+      propertyPath: m_Color.a
+      value: 0.19607843
+      objectReference: {fileID: 0}
+    - target: {fileID: 8286437040195317843, guid: 5f7496dd1254b43a29bf60c475c7949d, type: 3}
+      propertyPath: m_Color.b
+      value: 0.8392157
+      objectReference: {fileID: 0}
+    - target: {fileID: 8286437040195317843, guid: 5f7496dd1254b43a29bf60c475c7949d, type: 3}
+      propertyPath: m_Color.g
+      value: 0.8392157
+      objectReference: {fileID: 0}
+    - target: {fileID: 8286437040195317843, guid: 5f7496dd1254b43a29bf60c475c7949d, type: 3}
+      propertyPath: m_Color.r
+      value: 0.8392157
       objectReference: {fileID: 0}
     - target: {fileID: 9022478582607185101, guid: 5f7496dd1254b43a29bf60c475c7949d, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target

@@ -179,6 +179,22 @@ PrefabInstance:
       propertyPath: m_LocalScale.x
       value: 0.36020204
       objectReference: {fileID: 0}
+    - target: {fileID: 5981070380045704071, guid: 5f7496dd1254b43a29bf60c475c7949d, type: 3}
+      propertyPath: m_Color.a
+      value: 0.19607843
+      objectReference: {fileID: 0}
+    - target: {fileID: 5981070380045704071, guid: 5f7496dd1254b43a29bf60c475c7949d, type: 3}
+      propertyPath: m_Color.b
+      value: 0.8392157
+      objectReference: {fileID: 0}
+    - target: {fileID: 5981070380045704071, guid: 5f7496dd1254b43a29bf60c475c7949d, type: 3}
+      propertyPath: m_Color.g
+      value: 0.8392157
+      objectReference: {fileID: 0}
+    - target: {fileID: 5981070380045704071, guid: 5f7496dd1254b43a29bf60c475c7949d, type: 3}
+      propertyPath: m_Color.r
+      value: 0.8392157
+      objectReference: {fileID: 0}
     - target: {fileID: 6172874659603478278, guid: 5f7496dd1254b43a29bf60c475c7949d, type: 3}
       propertyPath: m_LocalScale.x
       value: 2.1059783
@@ -203,6 +219,22 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 6704430216927991290, guid: 5f7496dd1254b43a29bf60c475c7949d, type: 3}
+      propertyPath: m_Color.a
+      value: 0.19607843
+      objectReference: {fileID: 0}
+    - target: {fileID: 6704430216927991290, guid: 5f7496dd1254b43a29bf60c475c7949d, type: 3}
+      propertyPath: m_Color.b
+      value: 0.8392157
+      objectReference: {fileID: 0}
+    - target: {fileID: 6704430216927991290, guid: 5f7496dd1254b43a29bf60c475c7949d, type: 3}
+      propertyPath: m_Color.g
+      value: 0.8392157
+      objectReference: {fileID: 0}
+    - target: {fileID: 6704430216927991290, guid: 5f7496dd1254b43a29bf60c475c7949d, type: 3}
+      propertyPath: m_Color.r
+      value: 0.8392157
+      objectReference: {fileID: 0}
     - target: {fileID: 6799572697692259415, guid: 5f7496dd1254b43a29bf60c475c7949d, type: 3}
       propertyPath: m_text
       value: Downtown
@@ -218,6 +250,22 @@ PrefabInstance:
     - target: {fileID: 7779997562743622984, guid: 5f7496dd1254b43a29bf60c475c7949d, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_IntArgument
       value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 8286437040195317843, guid: 5f7496dd1254b43a29bf60c475c7949d, type: 3}
+      propertyPath: m_Color.a
+      value: 0.19607843
+      objectReference: {fileID: 0}
+    - target: {fileID: 8286437040195317843, guid: 5f7496dd1254b43a29bf60c475c7949d, type: 3}
+      propertyPath: m_Color.b
+      value: 0.8392157
+      objectReference: {fileID: 0}
+    - target: {fileID: 8286437040195317843, guid: 5f7496dd1254b43a29bf60c475c7949d, type: 3}
+      propertyPath: m_Color.g
+      value: 0.8392157
+      objectReference: {fileID: 0}
+    - target: {fileID: 8286437040195317843, guid: 5f7496dd1254b43a29bf60c475c7949d, type: 3}
+      propertyPath: m_Color.r
+      value: 0.8392157
       objectReference: {fileID: 0}
     - target: {fileID: 8583037278973798515, guid: 5f7496dd1254b43a29bf60c475c7949d, type: 3}
       propertyPath: m_Name
