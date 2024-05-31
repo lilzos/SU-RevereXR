@@ -158,8 +158,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: -131.517, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 119, y: 66}
-  m_SizeDelta: {x: 350, y: 325}
+  m_AnchoredPosition: {x: 119, y: 82.06}
+  m_SizeDelta: {x: 350, y: 341.06}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &99967918
 MonoBehaviour:
@@ -460,17 +460,17 @@ RectTransform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 271294822}
-  m_LocalRotation: {x: -0, y: -0.91182375, z: -0, w: 0.41058177}
-  m_LocalPosition: {x: 0, y: 0, z: 12204}
+  m_LocalRotation: {x: 0, y: 0.42261827, z: 0, w: 0.9063079}
+  m_LocalPosition: {x: 0, y: 0, z: 1112}
   m_LocalScale: {x: 2, y: 2, z: 2}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 351990576}
   m_Father: {fileID: 2412486289806972585}
-  m_LocalEulerAnglesHint: {x: 0, y: -131.517, z: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 50, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -10923, y: -1348}
+  m_AnchoredPosition: {x: 1322, y: 235}
   m_SizeDelta: {x: 390, y: 275}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &271294824
@@ -591,7 +591,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: -28.5}
   m_SizeDelta: {x: 375, y: 200}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &351990577
@@ -614,8 +614,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Who is Melvin Freeman?\nMelvin Freeman is a local Seattle artist who was
-    born and raised in the Central District Neighborhood of Seattle. In his  early
+  m_text: "Who is Melvin Freeman?\n\nMelvin Freeman is a local Seattle artist who
+    was born and raised in the Central District Neighborhood of Seattle. In his early
     years, Melvin found his creative inspiration directly in the environment that
     he grew up in. He was heavily influence by personal experiences, family, music,
     and the culture of the streets. By the time he was an adolescent, he was well
@@ -692,7 +692,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: 0, y: 0, z: 0, w: 0}
+  m_margin: {x: 0, y: -76.99107, z: 0, w: -31.23198}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
@@ -1845,7 +1845,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: -5.1}
   m_SizeDelta: {x: 325, y: 200}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1096238589
@@ -1883,7 +1883,8 @@ MonoBehaviour:
     members. They depict the oldest to the newest generation as you progress. I wanted
     to tell the story of the CD through these pictures and have every aspect of the
     community in them. It means a lot to be able to give back to my community and
-    give us something we can identify with that shares our story for decades to come\"\n\n"
+    give us something we can identify with that shares our story for decades to come\"\n\n-Melvin
+    Freeman\n\n\n"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -2512,11 +2513,6 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 8502090655426889312, guid: 1e95a0f18c0684bf397fde901bb16783, type: 3}
   m_PrefabInstance: {fileID: 1295606531}
   m_PrefabAsset: {fileID: 0}
---- !u!4 &1295606533 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 4556108073213580896, guid: 1e95a0f18c0684bf397fde901bb16783, type: 3}
-  m_PrefabInstance: {fileID: 1295606531}
-  m_PrefabAsset: {fileID: 0}
 --- !u!4 &1295606534 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 9020674536006736899, guid: 1e95a0f18c0684bf397fde901bb16783, type: 3}
@@ -2553,14 +2549,6 @@ MonoBehaviour:
   m_Script: {fileID: 0}
   m_Name: 
   m_EditorClassIdentifier: 
-  serializedVersion: 2
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 68, y: 34.7344, z: -96.5}
-  m_LocalScale: {x: 36, y: 14.273535, z: 0.42398298}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 1295606532}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1387546183
 GameObject:
   m_ObjectHideFlags: 0
@@ -3344,14 +3332,6 @@ MonoBehaviour:
   m_Script: {fileID: 0}
   m_Name: 
   m_EditorClassIdentifier: 
-  serializedVersion: 2
-  m_LocalRotation: {x: -0.5242194, y: 0.4708559, z: 0.47876272, w: -0.52371275}
-  m_LocalPosition: {x: 6.4941, y: 27.7122, z: -95.7641}
-  m_LocalScale: {x: 1.8697054, y: 0.1, z: 17.953808}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 1295606533}
-  m_LocalEulerAnglesHint: {x: 174.363, y: 450.402, z: 89.537}
 --- !u!222 &1966515503
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -3517,7 +3497,8 @@ MonoBehaviour:
     Seattle Childrens Odessa Brown Children's Clinic.\n\n \"It was an honor to get
     the artist call to create this piece commemorating the late Odessa and the work
     she has done for the community ...depicted in this are pictures of current and
-    past staff members, community events and the different clinics over the years.\"\n\n"
+    past staff members, community events and the different clinics over the years.\"\n\n-Melvin
+    Freeman"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -3580,7 +3561,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: 0, y: 0, z: 196.93573, w: 46.172546}
+  m_margin: {x: 0, y: 0, z: 196.93573, w: 45.739845}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
@@ -4010,9 +3991,45 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 906909129487606769, guid: 9da3421a30d48423d800a83a7ffcff76, type: 3}
+      propertyPath: m_text
+      value: 'Heart of the CD
+
+
+        "This piece was done one by an artist name
+        Stephanie Morales. This was one of the pieces that was first put up after
+        things started changing around here and symbolizes the heart of the Central
+        District"
+
+
+        -Melvin Freeman
+
+
+
+'
+      objectReference: {fileID: 0}
+    - target: {fileID: 906909129487606769, guid: 9da3421a30d48423d800a83a7ffcff76, type: 3}
+      propertyPath: m_margin.w
+      value: 47.860126
+      objectReference: {fileID: 0}
     - target: {fileID: 1221542829819668696, guid: 9da3421a30d48423d800a83a7ffcff76, type: 3}
       propertyPath: m_Name
       value: Canvas 1 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2317730945428885929, guid: 9da3421a30d48423d800a83a7ffcff76, type: 3}
+      propertyPath: m_text
+      value: "Auddie Webb Tribute\n\n\"This mural means a lot to me. It was created
+        by the artist Desmond Hansen.\nAuddie was the bestfriend of myself and many
+        others in the community. He was a really good guy who passed away a few years
+        ago and it crushed me. I\u2019ve known Auddie since preschool and we ran
+        the block together as youngesters coming up in the neighborhood. He was an
+        amazing brother. I\u2019m really glad he could be honored here with a piece
+        like this. Now I can still come up to the neighboorhood to see my homie.
+        It\u2019s my favorite piece of art now\"\n\n-Melvin Freeman\n\n"
+      objectReference: {fileID: 0}
+    - target: {fileID: 2317730945428885929, guid: 9da3421a30d48423d800a83a7ffcff76, type: 3}
+      propertyPath: m_margin.w
+      value: 46.7926
       objectReference: {fileID: 0}
     - target: {fileID: 2748608277947761232, guid: 9da3421a30d48423d800a83a7ffcff76, type: 3}
       propertyPath: m_Pivot.x
