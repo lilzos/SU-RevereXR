@@ -61,6 +61,26 @@ public class RPController : MonoBehaviour
         trackTextUI.text = audioTracks[trackID].name;
     }
 
+    public void LoadRecordFour()
+    {
+
+        rpAudioSource = GetComponent<AudioSource>();
+
+        trackID = 4;
+        rpAudioSource.clip = audioTracks[trackID].trackAudioClip;
+        trackTextUI.text = audioTracks[trackID].name;
+    }
+
+    public void LoadRecordFive()
+    {
+
+        rpAudioSource = GetComponent<AudioSource>();
+
+        trackID = 5;
+        rpAudioSource.clip = audioTracks[trackID].trackAudioClip;
+        trackTextUI.text = audioTracks[trackID].name;
+    }
+
     public void PlayAudio()
     {
         rpAudioSource.Play();
